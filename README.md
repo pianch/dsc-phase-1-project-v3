@@ -54,10 +54,9 @@ In this analysis, I aim to focus on the most relevant data to enable making of i
 
 **Injury proportion per make**
 ![Fatalities from weather conditions and phase of flight](https://github.com/user-attachments/assets/4a841d65-2d48-4b6e-a1a8-b857681fb66f)
-![Fatalities from weather conditions and phase of flight](https://github.com/user-attachments/assets/d95a696d-15dd-4cdf-b7da-483f0066d6e7)
 
 
-![Injury proportion per make](/home/edu/Dev/moringa/dsc-data-science-env-config/phase1/dsc-phase-1-project-v3/data/Injury proportion per make.png)
+![Injury proportion per make](https://github.com/user-attachments/assets/4f720b4f-1946-4fea-8d8f-9233dc47cf73)
 
 Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
 
