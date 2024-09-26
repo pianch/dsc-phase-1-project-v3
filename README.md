@@ -54,7 +54,7 @@ In this analysis, I aim to focus on the most relevant data to enable making of i
 
 **Injury proportion per make**
 
-![Injury proportion per make](data/Injury proportion per make.png)
+![Injury proportion per make](/home/edu/Dev/moringa/dsc-data-science-env-config/phase1/dsc-phase-1-project-v3/data/Injury proportion per make.png)
 
 Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
 
