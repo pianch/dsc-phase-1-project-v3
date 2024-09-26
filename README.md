@@ -82,5 +82,5 @@ Key observations:
 # Recommendations
 ![dashboard](Aircraft  analysis Dashboard.png)
 # References
-Presentation pdf [Presentation pdf](https://github.com/pianch/dsc-phase-1-project-v3/blob/master/Aviation%20analysis.pdf)
+Presentation pdf [Presentation pdf]file:///home/edu/Dev/moringa/dsc-data-science-env-config/phase1/dsc-phase-1-project-v3/Aviation%20data%20analysis.pdf
 **Tableau Visualisation** : [Tableau Visualisation](https://public.tableau.com/app/profile/edwin.maina/viz/Book1_17273156398000/AircraftanalysisDashboard?publish=yes)
