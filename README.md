@@ -12,6 +12,7 @@ In this project description, we will cover:
 * [***Getting Started:***](#getting-started) guidance for how to begin your first project
 
 ## Project Overview
+aviation_injury_trends.png
 
 For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
 
