@@ -29,33 +29,33 @@ Description of Data
 
 The dataset contains 90,348 records with 31 columns, covering various aspects of aviation accidents, including:
 
-    Event Date: The date when the aviation accident or incident occurred.
-    Location: The geographic location where the incident took place.
-    Aircraft Make and Model: The manufacturer and specific model of the aircraft involved in the accident.
-    Broad Phase of Flight: The general phase of flight during which the accident occurred. This includes stages such as: 
-    Aircraft Damage: Details about the severity of the aircraft damage (e.g., Destroyed, Substantial, Minor, Unknown).
-    Weather Conditions: Information on the weather conditions at the time of the incident.
-    Engine Type: The type of the engine in the aircraft (e.g, Reciprocating, Turbo Fan, Turbo shaft, Turbo Prop)
-    Number of engines: The number of the engine per aircraft
-    Purpose of flight ( personal, instructional, business)
-    Total Fatal Injuries: The total number of fatalities resulting from the accident.
-    Total Serious Injuries: The total number of serious injuries (non-fatal) resulting from the accident.
-    Total Minor Injuries: The total number of minor injuries resulting from the accident.
+Event Date: The date when the aviation accident or incident occurred.
+Location: The geographic location where the incident took place.
+Aircraft Make and Model: The manufacturer and specific model of the aircraft involved in the accident.
+Broad Phase of Flight: The general phase of flight during which the accident occurred. This includes stages such as: 
+Aircraft Damage: Details about the severity of the aircraft damage (e.g., Destroyed, Substantial, Minor, Unknown).
+Weather Conditions: Information on the weather conditions at the time of the incident.
+Engine Type: The type of the engine in the aircraft (e.g, Reciprocating, Turbo Fan, Turbo shaft, Turbo Prop)
+Number of engines: The number of the engine per aircraft
+Purpose of flight ( personal, instructional, business)
+Total Fatal Injuries: The total number of fatalities resulting from the accident.
+Total Serious Injuries: The total number of serious injuries (non-fatal) resulting from the accident.
+Total Minor Injuries: The total number of minor injuries resulting from the accident.
 
-Data Cleaning Process
+# Data Cleaning Process
 
 Ensuring the quality and consistency of our data is paramount. I undertook the following data cleaning steps to prepare the dataset for analysis:
 
-    Checking for Duplicates: My first step was to check for duplicate values in the dataset. Ensuring the uniqueness of our records is crucial to avoid skewed results. This check however found that the dataset does not contain any duplicate entries.
+Checking for Duplicates: My first step was to check for duplicate values in the dataset. Ensuring the uniqueness of our records is crucial to avoid skewed results. This check however found that the dataset does not contain any duplicate entries.
 
-   In this analysis, I aim to focus on the most relevant data to enable making of informed recommendations. As such, I have decided to perform data reduction by dropping certain columns from this dataset. This step will simplify our data and make it easier to handle, without losing the information that is crucial to our analysis.
+In this analysis, I aim to focus on the most relevant data to enable making of informed recommendations. As such, I have decided to perform data reduction by dropping certain columns from this dataset. This step will simplify our data and make it easier to handle, without losing the information that is crucial to our analysis.
 
 # Visualizations
 
 **Injury proportion per make**
 ![Injury proportion per make](data/Injury proportion per make.png)
 
-    Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
+Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
 
 
 **Proportion of Fatalities from purpose of flight**
