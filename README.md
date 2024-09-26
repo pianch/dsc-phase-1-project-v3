@@ -53,9 +53,6 @@ In this analysis, I aim to focus on the most relevant data to enable making of i
 # Visualizations
 
 **Injury proportion per make**
-![Fatalities from weather conditions and phase of flight](https://github.com/user-attachments/assets/4a841d65-2d48-4b6e-a1a8-b857681fb66f)
-
-
 ![Injury proportion per make](https://github.com/user-attachments/assets/4f720b4f-1946-4fea-8d8f-9233dc47cf73)
 
 Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
@@ -72,7 +69,8 @@ Offering flights with low-risk of fatalities is a better investment
 This Illustrates number of fatal accidents for each flight phase. Bubble size corresponds to number of accidents. Maneuvering, Cruise, and Approach are the largest bubbles.pilots sholud be trained extensively on how to handle the aircraft in these situations.
 
 **Fatalities from weather conditions and phase of flight**
-![Fatalities from weather conditions and phase of flight](data/Fatalities from weather conditions and phase of flight.PNG)
+
+![Fatalities from weather conditions and phase of flight](https://github.com/user-attachments/assets/4a841d65-2d48-4b6e-a1a8-b857681fb66f)
 
 This treemap displays fatalities broken down by weather conditions (VMC/IMC) and flight phases (e.g., Maneuvering, Cruise, Approach).
 
