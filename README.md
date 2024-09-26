@@ -53,19 +53,19 @@ In this analysis, I aim to focus on the most relevant data to enable making of i
 # Visualizations
 
 **Injury proportion per make**
-![Injury proportion per make](https://github.com/user-attachments/assets/4f720b4f-1946-4fea-8d8f-9233dc47cf73)
+![Injury proportion per make](https://github.com/user-attachments/assets/93ac79dd-8bee-4cc1-b93e-b90d80189e09)
 
 Comparing fatal injury proportion to uninjured proportion for top 10 aircraft manufacturers by make. Cessna has the highest total, with a large proportion of uninjured occupants.
 
 
 **Proportion of Fatalities from purpose of flight**
-
-![Proportion of Fatalities from purpose of flight](data/proportion of Fatalities from purpose of flght.jpg)
+![proportion of Fatalities from purpose of flght](https://github.com/user-attachments/assets/995dabd4-c69c-4569-9e8b-e276cbc834f9)
 Personal flights have the highest fatality count, followed by Unknown and Business purposes.
 Offering flights with low-risk of fatalities is a better investment
 
 **Fatal accidents per Phase of Flight**
-![Fatal accidents per Phase of Flight](data/Fatal accidents per Phase of Flight.JPG)
+![Fatal accidents per Phase of Flight](https://github.com/user-attachments/assets/d409e1a1-0861-476c-8dd6-734016bbaf41)
+
 This Illustrates number of fatal accidents for each flight phase. Bubble size corresponds to number of accidents. Maneuvering, Cruise, and Approach are the largest bubbles.pilots sholud be trained extensively on how to handle the aircraft in these situations.
 
 **Fatalities from weather conditions and phase of flight**
