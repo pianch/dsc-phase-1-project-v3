@@ -82,4 +82,5 @@ Key observations:
 # Recommendations
 ![dashboard](Aircraft  analysis Dashboard.png)
 # References
-**Tableau Visualisation** : https://public.tableau.com/app/profile/edwin.maina/viz/Book1_17273156398000/AircraftanalysisDashboard?publish=yes
+Presentation pdf ![](https://github.com/pianch/dsc-phase-1-project-v3/blob/master/Aviation%20analysis.pdf)
+**Tableau Visualisation** : ![](https://public.tableau.com/app/profile/edwin.maina/viz/Book1_17273156398000/AircraftanalysisDashboard?publish=yes)
