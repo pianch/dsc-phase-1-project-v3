@@ -68,6 +68,11 @@ Offering flights with low-risk of fatalities is a better investment
 
 This Illustrates number of fatal accidents for each flight phase. Bubble size corresponds to number of accidents. Maneuvering, Cruise, and Approach are the largest bubbles.pilots sholud be trained extensively on how to handle the aircraft in these situations.
 
+**Top 10 Most Common Aircraft Makes: Injury Proportion**
+![Top 10 Most Common Aircraft Makes: Injury Proportion](https://github.com/user-attachments/assets/c08294d1-86f1-4482-a932-485955876d5f)
+Plotting the injury proportion of the top 10 makes confirms that Boieng and Grumman aircrafts are good purchases as they have low-rsik affiliated with them by number of injuries
+Mooney and Bell aircrafts should be scrutinised with a lot of caution and may not be a good purchase recommendation due to their high proportionality of accidents and injuries.
+
 **Fatalities from weather conditions and phase of flight**
 
 ![Fatalities from weather conditions and phase of flight](https://github.com/user-attachments/assets/4a841d65-2d48-4b6e-a1a8-b857681fb66f)
@@ -78,9 +83,31 @@ Key observations:
 - VMC (Visual Meteorological Conditions) Maneuvering has the largest number of fatalities
 - VMC conditions generally show higher fatality numbers across different flight phases
 - Cruise and Approach phases also show significant fatalities in both VMC and IMC conditions
+- 
+**Correlation Matrix of Numerical Features**
+![Correlation Matrix of Numerical Features](https://github.com/user-attachments/assets/5d932a43-8fa4-4a6c-8218-d20d1f33e3cc)
+Strong positive correlations:
+
+Total Uninjured and Total Passengers (0.99): This suggests that as the number of passengers increases, the number of uninjured people also tends to increase significantly.
+
+Number of Engines and Total Passengers (0.43): There's a moderate positive correlation, indicating larger aircraft (with more engines) tend to carry more passengers.
 
 # Recommendations
-![dashboard](Aircraft  analysis Dashboard.png)
+Aircraft Acquisition: Cessna 172P model: This model demonstrates the best safety record among the
+analyzed aircraft. The 172P specifically has the lowest injury count (246) despite a moderate number of
+passengers (829). It's an excellent choice for smaller Flights
+
+• Turbofan-powered aircraft: aircraft with turbofan engines showed a majority of uninjured outcomes in
+accidents. For medium to large-scale operations, modern turbofan-powered aircraft from reputable
+manufacturers like Boeing are good options.
+
+• Multi-engine aircraft: The data shows a positive correlation between number of engines and passenger
+capacity. For commercial operations, consider multi-engine aircraft from established manufacturers.
+• Avoid : The data indicates that PA-28-140 and PA-28-180 models have significantly higher injury pro
+portions.
+• Pilot training and safety culture: Invest in comprehensive pilot training programs, especially for operations in
+Visual Meteorological Conditions (VMC) where most accidents occur.
+
 # References
 **Presentation pdf** 
 [Presentation pdf](https://github.com/pianch/dsc-phase-1-project-v3/blob/master/Aviation%20data%20analysis.pdf)
